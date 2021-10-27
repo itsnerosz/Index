@@ -6,13 +6,7 @@ Nero's Archive compilates a list of links to films available for free on Youtube
 
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
 
-
-<table>    
-  <tr>
-    <th colspan="1">Cabeçalho da Tabela</th>
-  <tr>
-</table> 
-
+ [CLICK HERE TO BE REDIRECTIONATE TO THE LIST](https://itsnerosz.github.io/nerosz_archive/list.md).
 
 
 For more details see [GitHub Flavored Markdown](https://itsnerosz.github.io/nerosz_archive/readme.md).
