@@ -14,7 +14,7 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 ⤷<b>Click the button below and wait 5 seconds to have acces it.<b>
  
 ⟶ <button>
-<a href="https://itsnerosz.github.io/nerosz_archive/LIST"><span style="color: green">Nero's Archive</span></a>
+<a href="http://fumacrom.com/2gDt1"><span style="color: green">Nero's Archive</span></a>
 </button>
 
  ---
