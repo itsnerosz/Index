@@ -1,36 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Nero's Archive, A.K.A "Fantastic Films and Where to Find Them (For FREE)".
 
-You can use the [editor on GitHub](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nero's Archive is a list of films available for free in  [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Nero's Archive
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+| Title | Year | Director | Links |
+| --- | --- | --- | --- |
+| xxx | xxx | xxx | xxx |
+| xxx | xxx | xxx | xxx |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### titulo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsnerosz/nerosz_archive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+descrição
 
 ### Support or Contact
 
