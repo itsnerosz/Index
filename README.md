@@ -1,5 +1,10 @@
 ## Welcome to Nero's Archive, A.K.A "Fantastic Films and Where to Find Them (For FREE)".
 
+<table border="1">    
+  <tr>
+    <th colspan="2">Cabeçalho da Tabela</th>
+  </tr>        
+
 Nero's Archive compilates a list of links to films available for free on Youtube, Vimeo and others video sharing platforms [Jekyll](https://jekyllrb.com/).
 
 ### Nero's Archive
@@ -8,6 +13,15 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 | [CLICK HERE TO BE REDIRECTED TO THE LIST](https://github.com/itsnerosz/nerosz_archive/blob/main/LIST.md)|
 | -------------------------------------------------------------------------------------------------- |
+
+
+<table ="1">    
+  <tr>
+    <th colspan="2">Cabeçalho da Tabela</th>
+  </tr>        
+
+
+
 
 [fork my repository](https://github.com/user/repository/fork)
 
