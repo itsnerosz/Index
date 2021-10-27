@@ -1,10 +1,11 @@
 ## Welcome to Nero's Archive, A.K.A "Fantastic Films and Where to Find Them (For FREE)".
 
-You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
-
-Nero's Archive is a list of films available for free in  [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nero's Archive compilates a list of links to films available for free on Youtube, Vimeo and others video sharing platforms [Jekyll](https://jekyllrb.com/).
 
 ### Nero's Archive
+
+You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
+
 | [CLICK HERE TO BE REDIRECTED TO THE LIST](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) |
 | --- |
 
