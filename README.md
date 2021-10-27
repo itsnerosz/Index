@@ -1,9 +1,9 @@
-## <span style="color: black">Welcome to Nero's Archive!</span>
+# <span style="color: black">Welcome to Nero's Archive!</span>
 A.K.A "Fantastic Films and Where to Find Them (For FREE)".
 
 ---
 
-## What is Nero's Archive?
+### What is Nero's Archive?
 
 ⤷ Nero's Archive is a list that compilates links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
