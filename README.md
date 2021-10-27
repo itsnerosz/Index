@@ -25,7 +25,7 @@ If you want to report a broken link or share a link so I can add to the list, yo
 
  ---
  
- ### <span style="color: red">Disclaimer</span>
+### <span style="color: red">Disclaimer</span>
 
 Nero's Archive doesn’t host any content, it just links to or embedds content that was uploaded to popular online video hosting sites like dailymotion.com, Youtube.com, Google Drive, ZShare.net, cloudy, netu.tv and such sites.
  
