@@ -9,6 +9,10 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 | [CLICK HERE TO BE REDIRECTED TO THE LIST](https://github.com/itsnerosz/nerosz_archive/blob/main/LIST.md)|
 |--- |
 
+
+
+
+
 <table border="1">    
   <tr>
     <th colspan="2">Cabeçalho da Tabela</th>
@@ -25,6 +29,8 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
     <td colspan="2"><b>Rodapé da tabela</b></td>
   </tr>
 </table> 
+
+
 
 
 
