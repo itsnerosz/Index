@@ -10,19 +10,28 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Tabela criada com JS</title>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="script.js"></script>
+</body>
+</html>
 
 
 
 
 
 
-<table border="1">    
-  </tr>
-  <tr>
-    <th colspan="2"><a href="https://github.com/itsnerosz/nerosz_archive/LIST">CLICK HERE TO BE REDIRECTED TO THE LIST</a></th>
-  <tr>
-  </tr>
-</table border="2">
+
+
+
+
 
 
 
