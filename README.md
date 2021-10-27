@@ -8,21 +8,13 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 
 
-
-
-
-
-
-
-
-
 <table border="1">    
   </tr>
   <tr>
     <th colspan="2"><a href="https://github.com/itsnerosz/nerosz_archive/LIST">CLICK HERE TO BE REDIRECTED TO THE LIST</a></th>
   <tr>
   </tr>
-</table border="1">
+</table>
 
 
 For more details see [GitHub Flavored Markdown](https://itsnerosz.github.io/nerosz_archive/readme.md).
