@@ -11,7 +11,7 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 # How to Acees?
 
-⤷<b>Click the button and wait 5 seconds to have acces it.<b>
+⤷<b>Click the button below and wait 5 seconds to have acces it.<b>
  
 ⟶ <button>
 <a href="https://itsnerosz.github.io/nerosz_archive/list.md"><span style="color: green">Nero's Archive</span></a>
