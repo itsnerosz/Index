@@ -4,14 +4,8 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 Nero's Archive is a list of films available for free in  [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Nero's Archive
+### | Nero's Archive |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-| Title | Year | Director | Links |
-| --- | --- | --- | --- |
-| xxx | xxx | xxx | xxx |
-| xxx | xxx | xxx | xxx |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
