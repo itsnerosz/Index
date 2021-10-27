@@ -4,7 +4,9 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 Nero's Archive is a list of films available for free in  [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### | Nero's Archive |
+### Nero's Archive
+| CLICK HERE TO BE REDIRECTED TO THE LIST |
+| --- | 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
