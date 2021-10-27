@@ -3,30 +3,30 @@ A.K.A "Fantastic Films and Where to Find Them (For FREE)".
 
 ---
 
-### What is Nero's Archive?
+## What is Nero's Archive?
 
 ⤷ Nero's Archive is a list that compilates links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
-You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
+You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview its titles.
 
-## How to Acees?
+# How to Acees?
 
-<b>Click the button to have acces to the list.<b>
+⤷<b>Click the button and wait 5 seconds to have acces it.<b>
  
- <button>
-⤷<a href="https://itsnerosz.github.io/nerosz_archive/list.md"><span style="color: green">Nero's Archive</span></a>
+⟶ <button>
+<a href="https://itsnerosz.github.io/nerosz_archive/list.md"><span style="color: green">Nero's Archive</span></a>
 </button>
+
+ ---
+
+## Contact
  
+If you want to report a broken link or share a link so I can add to the list, you can [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1304275202470277120) or let a comment on the Letterboxd page.
 
+ ---
+ 
+ ### <span style="color: red">Disclaimer</span>
 
-For more details see [GitHub Flavored Markdown](https://itsnerosz.github.io/nerosz_archive/readme.md).
-
-
-### Contact
-Contribute with the maintance of the list, saw a broken link? let me know.
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-### Warning
-
-descrição
+Nero's Archive doesn’t host any content, it just links to or embedds content that was uploaded to popular online video hosting sites like dailymotion.com, Youtube.com, Google Drive, ZShare.net, cloudy, netu.tv and such sites.
+ 
+All trademarks, Videos, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. itsnerosz.github.io/nerosz_archive is not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above!. If you have any legal issues please contact appropriate media file owners / hosters.
