@@ -7,11 +7,11 @@ Nero's Archive compilates a list of links to films available for free on Youtube
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview the content in this list.
 
 
-<table border="1">    
+<table>    
   <tr>
-    <th colspan="2">Cabeçalho da Tabela</th>
-  </tr>
-</table>
+    <th colspan="1">Cabeçalho da Tabela</th>
+  <tr>
+</table> 
 
 
 
