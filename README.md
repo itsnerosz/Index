@@ -18,15 +18,6 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
     <th colspan="2">Cabeçalho da Tabela</th>
   </tr>        
   <tr>
-    <td>Linha 1 - Coluna 1</td>
-    <td>Linha 1 - Ccoluna 2</td>
-  </tr>
-  <tr>
-    <td>Linha 2 - Coluna 1</td>
-    <td>Linha 2 - Coluna 2</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Rodapé da tabela</b></td>
   </tr>
 </table> 
 
