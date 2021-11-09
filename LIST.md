@@ -16,7 +16,7 @@
         <td>The Woman Who Ran</td>
         <td>2020</td>
         <td>Hong Sang-soo</td>
-        <td>https://drive.google.com/file/d/1dOdd1aYjyfum65m1RfiKVueNgsE-ldPO/view</td>
+        <td>https://drive.google.com/file/d/1dOdd1aYjyfum65m1RfiKVueNgsE-ldPO/view (https://github.com/itsnerosz/nerosz_archive/edit/main/README.md)</td>
     </tr>
     <tr>
         <td>Ralf</td>
