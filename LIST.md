@@ -1,6 +1,6 @@
 | Title | Year | Director | Link | Alternative Link |
 | --- | --- | --- | --- | --- |
-| <span style="color: green">The Woman Who Ran</span> | 2020 | Hong Sang-soo | <a href="https://drive.google.com/file/d/1dOdd1aYjyfum65m1RfiKVueNgsE-ldPO/view">Google Drive</a> | xaax |
+| <span style="color: green">The Woman Who Ran</span> | <span style="color: green">2020</span> | <span style="color: green">Hong Sang-soo</span> | <a href="https://drive.google.com/file/d/1dOdd1aYjyfum65m1RfiKVueNgsE-ldPO/view">Google Drive</a> | xaax |
 | xxx | xxx | axx | xxx | xxx |
 | xxx | xxx | xxx | xxx | xxx |
 | xxx | xxx | xxx | xxx | xxx |
