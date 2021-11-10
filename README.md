@@ -10,12 +10,17 @@
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview its titles.
 
 ---
+# <center><span style="color: Black">Nero's Archive</span></center>
 
-⤷<b>Click the button below to have acces it.<b>
- 
-⟶ <button>
-<a href="http://fumacrom.com/2gDt1"><span style="color: black">Nero's Archive</span></a>
-</button>
+### Instructions
+
+I recommend you use the "Find" tool in your web browser to easily navigate through the titles.
+
+Press Ctrl+F on Windows or ⌘ Command+F on Mac. This will open the "Find" search box in virtually any browser. Alternatively, you can click the icon with three dots or three lines in the upper-right corner to open the menu. Then click the "Find" option. It will either say Find, Find on this page or something similar.
+
+
+
+
 
  ---
 
