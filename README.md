@@ -1,5 +1,5 @@
-# <span style="color: black">Nero's Archive!</span>
-A.K.A "Fantastic Films and Where to Find Them (For FREE)".
+# <span style="color: black">Welcome to Nero's Archive!</span>
+<p style="text-align: center;">A.K.A "Fantastic Films and Where to Find Them (For FREE)".</p>
 
 ---
 
