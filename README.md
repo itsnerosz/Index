@@ -1,5 +1,5 @@
-# <h1 align="center">Welcome to Nero's Archive!</h1>
-<h1 align="center">A.K.A "Fantastic Films and Where to Find Them (For FREE)".</h1>
+# <center>Welcome to Nero's Archive!</center>
+<center>A.K.A "Fantastic Films and Where to Find Them (For FREE)".</center>
 
 ---
 
