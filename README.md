@@ -3,7 +3,7 @@
 
 ---
 
-### <span style="color: Black">About</soan>
+### <span style="color: Black">About</span>
 
 ⤷ Nero's Archive is a list that compilates links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
