@@ -40,4 +40,5 @@ If you want to report a broken link or share a link so I can add to the list, yo
 Nero's Archive does not host any content, it just links to or embedds content that was uploaded to popular online video hosting sites like dailymotion.com, Youtube.com, Google Drive, ZShare.net, cloudy, netu.tv and such sites.
 
 We are not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above. If you have any legal issues please contact appropriate media file owners / hosters.
+ 
 All trademarks, Videos, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. 
