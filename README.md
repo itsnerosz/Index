@@ -11,12 +11,10 @@ You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive
 
 ---
 
-# <span style="color: Black">Instructions</span>
-
-⤷<b>Click the button below and wait 5 seconds to have acces it.<b>
+⤷<b>Click the button below to have acces it.<b>
  
 ⟶ <button>
-<a href="http://fumacrom.com/2gDt1"><span style="color: green">Nero's Archive</span></a>
+<a href="http://fumacrom.com/2gDt1"><span style="color: black">Nero's Archive</span></a>
 </button>
 
  ---
@@ -34,3 +32,6 @@ Nero's Archive doesn’t host any content, it just links to or embedds content t
 All trademarks, Videos, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. 
  
 itsnerosz.github.io/archive is not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above!. If you have any legal issues please contact appropriate media file owners / hosters.
+ 
+ 
+
