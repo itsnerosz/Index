@@ -27,9 +27,7 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
  <center>online links are listed in <span style="color: green">green</span><center>
  
 
-  
-| Title | Year | Director | Link | Alternative Link |
-| --- | --- | --- | --- | --- |
+ 
 
 
 
@@ -46,7 +44,6 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 If you want to report a broken link or share a link so I can add to the list, you can [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1304275202470277120) or let a comment on the Letterboxd page.
   
 
-<a href="https://twitter.com/itsnerosz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @itsnerosz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  ---
  
@@ -56,7 +53,3 @@ Nero's Archive does not host any content, it just links to or embedds content th
 
 We are not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above. If you have any legal issues please contact appropriate media file owners / hosters.
 All trademarks, Videos, trade names, service marks, copyrighted work, logos referenced herein belong to their respective owners/companies. 
-
-
- 
-
