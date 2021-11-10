@@ -3,13 +3,13 @@
 
 ---
 
-### About
+### <p style="text-align: center;">About</p>
 
 ⤷ Nero's Archive is a list that compilates links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview its titles.
 
-# How to Acees?
+# <p style="text-align: center;">How to Acees?</p>
 
 ⤷<b>Click the button below and wait 5 seconds to have acces it.<b>
  
