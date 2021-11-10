@@ -15,7 +15,16 @@
 | <span style="color: green">Girls in My Hometown</span> | <span style="color: green">1991</span> | <span style="color: green">Pak Sung Bok</span> | <a href="https://www.youtube.com/watch?v=kg7Zqa7K4EY&ab_channel=DPRKCinema">YouTube</a> |  | 
 | <span style="color: green">The Bow⁽ⁿᵒ ˢᵘᵇᵗᶦᵗˡᵉˢ⁾</span> | <span style="color: green">2005</span> | <span style="color: green">Kim Ki-duk</span> | <a href="https://www.youtube.com/watch?v=OuGKYTzxXW4&ab_channel=K%C3%AAnhT%E1%BB%95ngH%E1%BB%A3pChanel">YouTube</a> |  | 
 | <span style="color: green">Hot for Teacher</span> | <span style="color: green">2006</span> | <span style="color: green">Kim Yoo-sung</span> | <a href="https://www.youtube.com/watch?v=oCg-_kXizUs">YouTube</a> |  | 
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  | 
+| <span style="color: green">Lust, Caution</span> | <span style="color: green">2007</span> | <span style="color: green">Ang Lee</span> | <a href="https://drive.google.com/file/d/1raZzIoQtLFyNCb5S5FBMT7hiC0Cmu5ik/view">Google Drive</a> |  | 
+| <span style="color: green">Castaway on the Moon</span> | <span style="color: green">2009</span> | <span style="color: green">Lee Hae-jun</span> | <a href="https://www.youtube.com/watch?v=-5xGL8vUeTI">Youtube</a> |  |
+| <span style="color: green">Man of Vendetta</span> | <span style="color: green">2010</span> | <span style="color: green">Woo Min-ho</span> | <a href="https://www.youtube.com/watch?v=4DMA2wiA3gc">YouTube</a> |  |
+| <span style="color: green">No Mercy</span> | <span style="color: green">2010</span> | <span style="color: green">Kim Hyoung-jun</span> | <a href="https://www.youtube.com/watch?v=EYbNiScm-zM">YouTube</a> |  |
+| <span style="color: green">The Name Given by Era</span> | <span style="color: green">2009</span> | <span style="color: green">Kim Hyon-chol</span> | <a href="https://www.youtube.com/watch?v=JFBEUxtpPfg&ab_channel=DPRKCinema">YouTube</a> |  |
+| <span style="color: green">The Recorder Exam</span> | <span style="color: green">2011</span> | <span style="color: green">Kim Bo-ra</span> | <a href="https://www.youtube.com/watch?v=v8sKxB2DUT8&ab_channel=%E3%81%AA%E3%81%A4%E3%81%93">YouTube</a> | <a href="https://drive.google.com/drive/folders/14zvFtS7oeXqiueLNn8sLbuT--bpsOhRF">Google Drive</a> |
+| <span style="color: green">The Wheels of Happiness</span> | <span style="color: green">2011</span> | <span style="color: green">Jong Kon-jo, Rim Cho Ho</span> | <a href="https://www.youtube.com/watch?v=b2pFRyYsl9Q">YouTube</a> |  |
+| <span style="color: green">Miracle in Cell No. 7</span> | <span style="color: green">2013</span> | <span style="color: green">Lee Hwan-kyung</span> | <a href="https://www.youtube.com/watch?v=5VZBb1pk_X8&ab_channel=ArigaTinfy">YouTube</a> |  |
+| <span style="color: green">Alice: Crak of Season</span> | <span style="color: green">2016</span> | <span style="color: green">Ga-hee Chae</span> | <a href="https://www.youtube.com/watch?v=27Me4tV15hc">YouTube</a> |  |
+| <span style="color: green">My Brothers and Sisters in the North</span> | <span style="color: green">2016</span> | <span style="color: green">Sung Hyung Cho</span> | <a href="https://www.youtube.com/watch?v=IBqeC8ihsO8">YouTube</a> | <a href="https://www.youtube.com/watch?v=nSd48emp0lI">YouTube</a> |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
@@ -25,10 +34,10 @@
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-
-
-
-
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 
 
 
