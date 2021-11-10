@@ -13,7 +13,7 @@ You can use the <a href="https://github.com/itsnerosz/nerosz_archive/edit/main/R
 
 ### <span style="color: Black">Instructions</span>
 
-I recommend you use the "Find" tool in your web browser to easily navigate through the titles.
+I recommend you to use the "Find" tool in your web browser to easily navigate through the titles.
 
 Press Ctrl+F on Windows or ⌘ Command+F on Mac. This will open the "Find" search box in virtually any browser. Alternatively, you can click the icon with three dots or three lines in the upper-right corner to open the menu. Then click the "Find" option. It will either say Find, Find on this page or something similar.
 
@@ -22,7 +22,9 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 ---
 
 # <center><span style="color: Black">Nero's Archive</span><center>
-
+ 
+ <center>broken links are listed in <span style="color: red">red</span><center>
+ <center>online links are listed in <span style="color: green">green</span><center>
 
 ---
 
