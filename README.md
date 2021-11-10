@@ -10,13 +10,27 @@
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview its titles.
 
 ---
-# <center><span style="color: Black">Nero's Archive</span></center>
 
-### Instructions
+### <span style="color: Black">Instructions</span>
 
 I recommend you use the "Find" tool in your web browser to easily navigate through the titles.
 
 Press Ctrl+F on Windows or ⌘ Command+F on Mac. This will open the "Find" search box in virtually any browser. Alternatively, you can click the icon with three dots or three lines in the upper-right corner to open the menu. Then click the "Find" option. It will either say Find, Find on this page or something similar.
+
+Type the word or phrase that you want to find in the search box. The "Find" search box appears either at the top of the page or the bottom of the page depending on which web browser you are using. Your browser will find matches as you type and highlight them in the text
+
+---
+
+# <center><span style="color: Black">Nero's Archive</span></center>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -27,6 +41,8 @@ Press Ctrl+F on Windows or ⌘ Command+F on Mac. This will open the "Find" searc
 ### <span style="color: Black">Contact</span>
  
 If you want to report a broken link or share a link so I can add to the list, you can [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1304275202470277120) or let a comment on the Letterboxd page.
+
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @itsnerosz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
  ---
  
