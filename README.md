@@ -26,6 +26,8 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 <center>broken links are listed in <span style="color: red">red</span><center>
  <center>online links are listed in <span style="color: green">green</span><center>
  
+
+  
 | Title | Year | Director | Link | Alternative Link |
 | --- | --- | --- | --- | --- |
 
@@ -42,6 +44,7 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 ### <span style="color: Black">Contact</span>
  
 If you want to report a broken link or share a link so I can add to the list, you can [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1304275202470277120) or let a comment on the Letterboxd page.
+  
 
 <a href="https://twitter.com/itsnerosz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @itsnerosz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
