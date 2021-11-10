@@ -25,14 +25,15 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 
 <center>broken links are listed in <span style="color: red">red</span><center>
 <center>online links are listed in <span style="color: green">green</span><center>
+ 
 
- ---
+---
 
 ### <span style="color: Black">Contact</span>
  
 If you want to report a broken link or share a link so I can add to the list, you can [message me on Twitter](https://twitter.com/messages/compose?recipient_id=1304275202470277120) or let a comment on the Letterboxd page.
 
- ---
+---
  
 ### <span style="color: red">Disclaimer</span>
 
