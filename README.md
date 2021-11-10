@@ -1,4 +1,4 @@
-# <center>Welcome to Nero's Archive!</center>
+# <center><span style="color: Black">Welcome to Nero's Archive!</span></center>
 <center>A.K.A "Fantastic Films and Where to Find Them (For FREE)".</center>
 
 ---
