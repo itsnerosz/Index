@@ -9,6 +9,8 @@
 
 You can use the [list on Letterboxd](https://github.com/itsnerosz/nerosz_archive/edit/main/README.md) to preview its titles.
 
+---
+
 # <p style="text-align: center;">How to Acees?</p>
 
 ⤷<b>Click the button below and wait 5 seconds to have acces it.<b>
