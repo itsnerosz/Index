@@ -56,28 +56,68 @@
 | <span style="color: green">Love Exposure</span> | <span style="color: green">2008</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=8KbRihJ095g">YouTube</a> | <a href="https://www.youtube.com/watch?v=CarKTiHSlLY">YouTube</a> |
 | <span style="color: green">Assalto ao Banco Central / Federal Bank Heist</span> | <span style="color: green">2011</span> | <span style="color: green">Marcos Paulo</span> | <a href="https://www.youtube.com/watch?v=cy2bJSKchog">YouTube</a> |  |
 | <span style="color: green">Himizu</span> | <span style="color: green">2011</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=u1Yt53V63Fc">YouTube</a> |  |
+| <span style="color: green">I Was Born, But...</span> | <span style="color: green">1932</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=IDy4RsxDuy4">YouTube</a> |  |
+| <span style="color: green">Late Spring</span> | <span style="color: green">1949</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=g_Czx6qdKJo">YouTube</a> | <a href="https://www.youtube.com/watch?v=XU-iOxf4vI0">YouTube</a> |
+| <span style="color: green">Death By Hanging</span> | <span style="color: green">1968</span> | <span style="color: green">Nagisa Ōshima</span> | <a href="https://www.youtube.com/watch?v=RpH_Dqbz5ME">YouTube</a> |  |
+| <span style="color: green">The Flower Girl</span> | <span style="color: green">1972</span> | <span style="color: green">Hak Pak, Ik Kyu Choe</span> | <a href="https://www.youtube.com/watch?v=sth1Lahxyig&t=1231s">YouTube</a> |  |
+| <span style="color: green">Nostalgia / Nostalghia</span> | <span style="color: green">1983</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=-gH1cprEg0w">YouTube</a> |  |
+| <span style="color: green">Mirror</span> | <span style="color: green">1975</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=CYZhXm02kN0">YouTube</a> |  |
+| <span style="color: green">Que Viva Mexico!</span> | <span style="color: green">1979</span> | <span style="color: green">Sergei Eisenstein</span> | <a href="https://archive.org/details/QuevivaMexico">Archive.org</a> |  |
+| <span style="color: green">Stalker</span> | <span style="color: green">1979</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=TGRDYpCmMcM">YouTube</a> |  |
+| <span style="color: green">Marighella</span> | <span style="color: green">2019</span> | <span style="color: green">Wagner Moura</span> | <a href="https://drive.google.com/file/d/1OL6T17bNvH0b4cScBL5400fI9RqC8Kpi/view">Google Drive</a> |  |
+| <span style="color: green">Die Tomorrow</span> | <span style="color: green">2017</span> | <span style="color: green">Nawapol Thamrongrattanarit</span> | <a href="https://mega.nz/file/JZlniIqD#b0pnUbXlCXC04Zr3pGO3PYNPMr-rdIY8DYbkMX_tfF0">MEGA</a> |  |
+| <span style="color: green">Bound for the Fields, the Mountains, and the Seacoast</span> | <span style="color: green">1986</span> | <span style="color: green">Nobuhiko Ōbayash</span> | <a href="http://www.youtube.com/watch?v=wwCQq_R2LwM">YouTube⁽ᵇˡᵃᶜᵏ ᵃⁿᵈ ʷʰᶦᵗᵉ ᵛᵉʳˢᶦᵒⁿ⁾</a> | <a href="http://www.youtube.com/watch?v=7BgUxcvfg_c">YouTube⁽ᶜᵒˡᵒᵘʳᵉᵈ ᵛᵉʳˢᶦᵒⁿ⁾</a> |
+| <span style="color: green">His Motorbike, Her Island</span> | <span style="color: green">1986</span> | <span style="color: green">Nobuhiko Ōbayash</span> | <a href="https://www.youtube.com/watch?v=ipTryEC761w">YouTube</a> |  |
+| <span style="color: green">Taipei Story</span> | <span style="color: green">1985</span> | <span style="color: green">Edward Yang</span> | <a href="https://www.youtube.com/watch?v=zc5QmmVrBmA">YouTube</a> |  |
+| <span style="color: green">Mishima: A Life In Four Chapters</span> | <span style="color: green">1985</span> | <span style="color: green">Paul Schrader</span> | <a href="https://www.youtube.com/watch?v=GCDuUoTWydE">YouTube</a> |  |
+| <span style="color: green">Brazil</span> | <span style="color: green">1985</span> | <span style="color: green">Terry Gilliam</span> | <a href="xxhttps://www.youtube.com/watch?v=ONhWPmMkAfwx">YouTube</a> |  |
+| <span style="color: green">Come and See</span> | <span style="color: green">1985</span> | <span style="color: green">Elem Klimov</span> | <a href="https://www.youtube.com/watch?v=UkkJZweYaLI">YouTube</a> |  |
+| <span style="color: green">The Sacrifice / Offret</span> | <span style="color: green">1986</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=UYOXUy9017U">YouTube</a> |  |
+| <span style="color: green">A Trip to the Moon</span> | <span style="color: green">1902</span> | <span style="color: green">Georges Méliès</span> | <a href="https://www.youtube.com/watch?v=xLVChRVfZ74">YouTube</a> |  |
+| <span style="color: green">Zapata's Gang</span> | <span style="color: green">1914</span> | <span style="color: green">Urban Gad</span> | <a href="https://www.youtube.com/watch?v=7dQ32dDyEMM">YouTube</a> |  |
+| <span style="color: green">The Goddess</span> | <span style="color: green">1934</span> | <span style="color: green">Yonggang Wu</span> | <a href="https://www.youtube.com/watch?v=EWo470hfB5A">YouTube</a> |  |
+| <span style="color: green">Pastoral: To Die in the Country</span> | <span style="color: green">1974</span> | <span style="color: green">Shūji Terayama</span> | <a href="https://www.youtube.com/watch?v=HJyDF1mNtsU">YouTube</a> |  |
+| <span style="color: green">La Chinoise</span> | <span style="color: green">1967</span> | <span style="color: green">Jean-Luc Godard</span> | <a href="https://archive.org/details/godardlachinoise">Archive.org</a> |  |
+| <span style="color: green">House</span> | <span style="color: green">1977</span> | <span style="color: green">Nobuhiko Ōbayashi</span> | <a href="https://archive.org/details/Mag104Movie">YouTube</a> |  |
+| <span style="color: green">Himiko</span> | <span style="color: green">1974</span> | <span style="color: green">Masahiro Shinoda</span> | <a href="https://www.youtube.com/watch?v=rhcLnxskehE">YouTube</a> |  |
+| <span style="color: green">Battleship Potemkin</span> | <span style="color: green">1925</span> | <span style="color: green">Sergei Eisenstein</span> | <a href="https://archive.org/details/PhantasmagoriaTheater-BattleshipPotemkin1925396">Archive.org</a> |  |
+| <span style="color: green">Strike</span> | <span style="color: green">1925</span> | <span style="color: green">Sergei Eisenstein</span> | <a href="https://archive.org/details/Strike_323">Archive.org</a> | <a href="https://www.youtube.com/watch?v=hG_yM7We0C8">YouTube</a> |
+| <span style="color: green">The Color of Pomegranates</span> | <span style="color: green">1969</span> | <span style="color: green">Sergei Parajanov</span> | <a href="https://archive.org/details/ColorOfPomegranates-SayatNova1968">Archive.org</a> |  |
+| <span style="color: green">The Virgin Psychics</span> | <span style="color: green">2015</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=SWTsTN2mD6Q">YouTube</a> |  |
+| <span style="color: green">13th</span> | <span style="color: green">2016</span> | <span style="color: green">Ava DuVernay</span> | <a href="https://www.youtube.com/watch?v=krfcq5pF8u8">YouTube</a> |  |
+| <span style="color: green">La Commune (Paris, 1871)</span> | <span style="color: green">2000</span> | <span style="color: green">Peter Watkins</span> | <a href="https://www.youtube.com/watch?v=zg4Q0xtcFlg">YouTube⁽ᵖᵃʳᵗ ¹⁾</a> | <a href="https://www.youtube.com/watch?v=9xavjkBujJE">YouTube⁽ᵖᵃʳᵗ ²⁾</a> |
+| <span style="color: green">Shara</span> | <span style="color: green">2003</span> | <span style="color: green">Naomi Kawase</span> | <a href="https://www.youtube.com/watch?v=2S526K2PMfM">YouTube</a> |  |
+| <span style="color: green">My Sassy Girl</span> | <span style="color: green">2001</span> | <span style="color: green">Kwak Jae-yong</span> | <a href="https://www.youtube.com/watch?v=WxVNyAHOFFU">YouTube</a> | <a href="https://drive.google.com/file/d/1_ui2u5lWGA9z8MTpb_jGlpF1-R9onwJc/view">Google Drive⁽ᵖᵗ⁻ᵇʳ ˢᵘᵇ⁾</a> |
+| <span style="color: green">Suicide Club</span> | <span style="color: green">2001</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=eStQsAFOEa4">YouTube</a> | <a href="https://www.youtube.com/watch?v=T_nNSgnKUzs">YouTube</a> |
+| <span style="color: green">Hearty Paws</span> | <span style="color: green">2006</span> | <span style="color: green">Bongsoo, Park Eun-hyung</span> | <a href="https://www.youtube.com/watch?v=tymU3tq-9CI">YouTube</a> |  |
+| <span style="color: green">House of Hummingbird</span> | <span style="color: green">2018</span> | <span style="color: green">Kim Bo-ra</span> | <a href="https://drive.google.com/file/d/11Eh2D4arNJx99tp8DOTW3bL_D9PtCC9T/view">Google Drive</a> |  |
+| <span style="color: green">Occult</span> | <span style="color: green">2009</span> | <span style="color: green">Kôji Shiraishi</span> | <a href="https://www.youtube.com/watch?v=I6qri3HnUQQ">YouTube</a> |  |
+| <span style="color: green">Shodo Girls: Blue Blue Sky</span> | <span style="color: green">2011</span> | <span style="color: green">Takafumi Ota</span> | <a href="https://www.youtube.com/watch?v=5GP7MwkKcF0">YouTube</a> |  |
+| <span style="color: green">A Bride for Rip Van Winkle</span> | <span style="color: green">2016</span> | <span style="color: green">Shunji Iwai</span> | <a href="https://www.youtube.com/watch?v=YyokiLIQ9Nw">YouTube</a> | <a href="https://www.youtube.com/watch?v=2U-PbXtNGjo">YouTube</a> |
+| <span style="color: green">Unforgettable</span> | <span style="color: green">2016</span> | <span style="color: green">Lee Eun-hee</span> | <a href="https://drive.google.com/file/d/1IRKM-gY-LOPgAPV79mjLrE5J6CnR0y6s/view">Google Drive</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 
 
 
