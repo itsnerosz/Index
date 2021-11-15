@@ -25,20 +25,29 @@
 | <span style="color: green">Miracle in Cell No. 7</span> | <span style="color: green">2013</span> | <span style="color: green">Lee Hwan-kyung</span> | <a href="https://www.youtube.com/watch?v=5VZBb1pk_X8&ab_channel=ArigaTinfy">YouTube</a> |  |
 | <span style="color: green">Alice: Crak of Season</span> | <span style="color: green">2016</span> | <span style="color: green">Ga-hee Chae</span> | <a href="https://www.youtube.com/watch?v=27Me4tV15hc">YouTube</a> |  |
 | <span style="color: green">My Brothers and Sisters in the North</span> | <span style="color: green">2016</span> | <span style="color: green">Sung Hyung Cho</span> | <a href="https://www.youtube.com/watch?v=IBqeC8ihsO8">YouTube</a> | <a href="https://www.youtube.com/watch?v=nSd48emp0lI">YouTube</a> |
+| <span style="color: green">Survive Style 5+</span> | <span style="color: green">2004</span> | <span style="color: green">Gen Sekiguchi</span> | <a href="https://www.youtube.com/watch?v=uLx7-jrji9o">YouTube</a> |  |
+| <span style="color: green">Tokyo.Sora</span> | <span style="color: green">2002</span> | <span style="color: green">Hiroshi Ishikawa</span> | <a href="https://www.youtube.com/watch?v=Y9wxgtoPifg">YouTube</a> |  |
+| <span style="color: green">...Ing</span> | <span style="color: green">2003</span> | <span style="color: green">Lee Eon-hee</span> | <a href="https://www.youtube.com/watch?v=br3SsatqZh8">YouTube</a> |  |
+| <span style="color: green">Tokyo Marigold</span> | <span style="color: green">2001</span> | <span style="color: green">Jun Ichikawa</span> | <a href="https://www.youtube.com/watch?v=nso6-E-6eJ4">YouTube</a> |  |
+| <span style="color: green">Take Care of My Cat</span> | <span style="color: green">2001</span> | <span style="color: green">Jeong Jae-eun</span> | <a href="https://drive.google.com/file/d/1wPTi8X8d4BxUcP1uTA6we4HyDKM_YFfi/view">Google Drive</a> |  |
+| <span style="color: green">Blue</span> | <span style="color: green">2002</span> | <span style="color: green">Hiroshi Ando</span> | <a href="https://www.youtube.com/watch?v=AibU0-U5wVI">Youtube</a> | <a href="https://www.youtube.com/watch?v=jNbbBDXDBwM">Youtube</a> |
+| <span style="color: green">Elephant</span> | <span style="color: green">2003</span> | <span style="color: green">Gus Van Sant</span> | <a href="https://archive.org/details/elephant.-2003">Archive.org</a> |  |
+| <span style="color: green">Tokyo Story</span> | <span style="color: green">1953</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=_zItWQcxvXk">YouTube</a> |  |
+| <span style="color: green">The Flavor of Green Tea Over Rice</span> | <span style="color: green">1952</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=AO-1aZQ-uUY">YouTube</a> |  |
+| <span style="color: green">Early Summer</span> | <span style="color: green">1951</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=aVbHBYuYG6E">YouTube</a> |  |
+| <span style="color: green">Killer's Kiss</span> | <span style="color: green">1955</span> | <span style="color: green">Stanley Kubrick</span> | <a href="https://archive.org/details/killerskiss1955_201908">Archive.org</a> |  |
+| <span style="color: green">Paths of Glory</span> | <span style="color: green">1957</span> | <span style="color: green">Stanley Kubrick</span> | <a href="https://archive.org/details/pathsofglory1957_201908">Archive.org</a> |  |
+| <span style="color: green">Floating Weeds</span> | <span style="color: green">1959</span> | <span style="color: green">Yasujirō Ozu</span> | <a href="https://www.youtube.com/watch?v=zqRHdJDOZg8">YouTube</a> |  |
+| <span style="color: green">The Red Detachment of Women</span> | <span style="color: green">1961</span> | <span style="color: green">Xie Jin</span> | <a href="https://www.youtube.com/watch?v=gQ5RxuHbmjg">YouTube</a> | <a href="https://archive.org/details/The_Red_Detachment_of_Women">Archive.org</a> |
+| <span style="color: green">The Steamroller and the Violin</span> | <span style="color: green">1961</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://vimeo.com/432002354">Vimeo</a> |  |
+| <span style="color: green">Ivan's Childhood</span> | <span style="color: green">1962</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=aRkPoF7iVGc">YouTube</a> |  |
+| <span style="color: green">Winter Light</span> | <span style="color: green">1963</span> | <span style="color: green">Ingmar Bergman</span> | <a href="https://www.youtube.com/watch?v=o3w0IQsN8XQ">YouTube</a> |  |
+| <span style="color: green">Summer with Monika</span> | <span style="color: green">1953</span> | <span style="color: green">Ingmar Bergman</span> | <a href="https://www.youtube.com/watch?v=Ds2D0C2TWgI">YouTube</a> |  |
+| <span style="color: green">Deus e o Diabo na Terra do Sol / Black God, White Devil</span> | <span style="color: green">1964</span> | <span style="color: green">Glauber Rocha</span> | <a href="https://www.youtube.com/watch?v=g0uHxfQQcLQ">YouTube</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-
 
 
 
