@@ -44,10 +44,21 @@
 | <span style="color: green">Winter Light</span> | <span style="color: green">1963</span> | <span style="color: green">Ingmar Bergman</span> | <a href="https://www.youtube.com/watch?v=o3w0IQsN8XQ">YouTube</a> |  |
 | <span style="color: green">Summer with Monika</span> | <span style="color: green">1953</span> | <span style="color: green">Ingmar Bergman</span> | <a href="https://www.youtube.com/watch?v=Ds2D0C2TWgI">YouTube</a> |  |
 | <span style="color: green">Deus e o Diabo na Terra do Sol / Black God, White Devil</span> | <span style="color: green">1964</span> | <span style="color: green">Glauber Rocha</span> | <a href="https://www.youtube.com/watch?v=g0uHxfQQcLQ">YouTube</a> |  |
+| <span style="color: green">Andrei Rublev</span> | <span style="color: green">1966</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=x6kqlveBhVY">YouTube⁽ᴾᴬᴿᵀ ¹⁾</a> | <a href="https://www.youtube.com/watch?v=4JpnrdEOAcM">YouTube⁽ᴾᴬᴿᵀ ²⁾</a> |
+| <span style="color: green">The Battle of Algiers</span> | <span style="color: green">1966</span> | <span style="color: green">Gillo Pontecorvo</span> | <a href="https://www.youtube.com/watch?v=uHWZkiBuKGY">YouTube</a> | <a href="https://www.youtube.com/watch?v=HpCVtgr8DW8">YouTube</a> |
+| <span style="color: green">Solaris</span> | <span style="color: green">1972</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=6-4KydP92ss&t=5s">YouTube⁽ᴾᴬᴿᵀ ¹⁾</a> | <a href="https://www.youtube.com/watch?v=xXa6XpaxBS0">YouTube⁽ᴾᴬᴿᵀ ²⁾</a> |
+| <span style="color: green">Dona Flor e Seus Dois Maridos / Dona Flor and Her Two Husbands</span> | <span style="color: green">1976</span> | <span style="color: green">Bruno Barreto</span> | <a href="https://www.youtube.com/watch?v=SWmQamTTfB4">YouTube</a> |  |
+| <span style="color: green">Girls of Cinema</span> | <span style="color: green">2017</span> | <span style="color: green">Yuki Yamato</span> | <a href="https://vimeo.com/248983172">Vimeo</a> |  |
+| <span style="color: green">A Boy and Sungreen</span> | <span style="color: green">2018</span> | <span style="color: green">Ahn Ju-young</span> | <a href="https://drive.google.com/file/d/1PYOddicf7YPvR-AgwqhJQHgPsUx7PmS6/view?usp=drivesdk">Google Drive</a> |  |
+| <span style="color: green">Maggie</span> | <span style="color: green">2018</span> | <span style="color: green">Yi Ok-seop</span> | <a href="https://drive.google.com/file/d/1s5u9nDQudXNTvLhcz78pak1LSUo9MT0G/view">Google Drive</a> |  |
+| <span style="color: green">Little Forest</span> | <span style="color: green">2018</span> | <span style="color: green">Yim Soon-rye</span> | <a href="https://drive.google.com/file/d/1Uuv1lUFWhXXKQ0_BvXhlibdSJ1sMTyRC/view">Google Drive</a> |  |
+| <span style="color: green">Baseball Girl</span> | <span style="color: green">2019</span> | <span style="color: green">Choi Yun-tae</span> | <a href="https://drive.google.com/file/d/1aSIhFyanAKeinEPYqIhlh_eQGHigxPVi/view">Google Drive</a> |  |
+| <span style="color: green">Love Exposure</span> | <span style="color: green">2008</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=8KbRihJ095g">YouTube</a> | <a href="https://www.youtube.com/watch?v=CarKTiHSlLY">YouTube</a> |
+| <span style="color: green">Assalto ao Banco Central / Federal Bank Heist</span> | <span style="color: green">2011</span> | <span style="color: green">Marcos Paulo</span> | <a href="https://www.youtube.com/watch?v=cy2bJSKchog">YouTube</a> |  |
+| <span style="color: green">Himizu</span> | <span style="color: green">2011</span> | <span style="color: green">Sion Sono</span> | <a href="https://www.youtube.com/watch?v=u1Yt53V63Fc">YouTube</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
+
 
 
 
