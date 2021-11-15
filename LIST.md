@@ -70,7 +70,7 @@
 | <span style="color: green">His Motorbike, Her Island</span> | <span style="color: green">1986</span> | <span style="color: green">Nobuhiko Ōbayash</span> | <a href="https://www.youtube.com/watch?v=ipTryEC761w">YouTube</a> |  |
 | <span style="color: green">Taipei Story</span> | <span style="color: green">1985</span> | <span style="color: green">Edward Yang</span> | <a href="https://www.youtube.com/watch?v=zc5QmmVrBmA">YouTube</a> |  |
 | <span style="color: green">Mishima: A Life In Four Chapters</span> | <span style="color: green">1985</span> | <span style="color: green">Paul Schrader</span> | <a href="https://www.youtube.com/watch?v=GCDuUoTWydE">YouTube</a> |  |
-| <span style="color: green">Brazil</span> | <span style="color: green">1985</span> | <span style="color: green">Terry Gilliam</span> | <a href="xxhttps://www.youtube.com/watch?v=ONhWPmMkAfwx">YouTube</a> |  |
+| <span style="color: green">Brazil</span> | <span style="color: green">1985</span> | <span style="color: green">Terry Gilliam</span> | <a href="https://www.youtube.com/watch?v=ONhWPmMkAfwx">YouTube</a> |  |
 | <span style="color: green">Come and See</span> | <span style="color: green">1985</span> | <span style="color: green">Elem Klimov</span> | <a href="https://www.youtube.com/watch?v=UkkJZweYaLI">YouTube</a> |  |
 | <span style="color: green">The Sacrifice / Offret</span> | <span style="color: green">1986</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=UYOXUy9017U">YouTube</a> |  |
 | <span style="color: green">A Trip to the Moon</span> | <span style="color: green">1902</span> | <span style="color: green">Georges Méliès</span> | <a href="https://www.youtube.com/watch?v=xLVChRVfZ74">YouTube</a> |  |
