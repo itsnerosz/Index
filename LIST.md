@@ -119,6 +119,40 @@
 | <span style="color: green">Bunny Drop</span> | <span style="color: green">2011</span> | <span style="color: green">SABU</span> | <a href="https://www.youtube.com/watch?v=0TD4Pa_u3ZY">YouTube</a> |  |
 | <span style="color: green">Beginning of The Great Revival</span> | <span style="color: green">2011</span> | <span style="color: green">Han Sanping, Lu Chuan, Li Shaohong, Huang Jianxin</span> | <a href="https://www.youtube.com/watch?v=x8-GUzTUL2M">YouTube</a> | <a href="https://www.youtube.com/watch?v=YFcbFwiORF8">YouTube</a> <a href="https://www.youtube.com/watch?v=KEDv6MaYTkY">YouTube</a> |
 | <span style="color: green">Time Traveller: The Girl Who Leapt Through Time</span> | <span style="color: green">2010</span> | <span style="color: green">Masaaki Taniguchi</span> | <a href="https://www.youtube.com/watch?v=5z_znVyOuto">YouTube</a> |  |
+| <span style="color: green">The Founding of a Republic</span> | <span style="color: green">2009</span> | <span style="color: green">Han Sanping, Huang Jianxin</span> | <a href="https://www.youtube.com/watch?v=fs3099Cv-zc">YouTube</a> | <a href="https://www.youtube.com/watch?v=vFjZwx7EMZs">YouTube</a> |
+| <span style="color: green">Retratos de identificação</span> | <span style="color: green">2014</span> | <span style="color: green">Anita Leandro</span> | <a href="https://vimeo.com/116507969">Vimeo</a> |  |
+| <span style="color: green">Suddenly Seventeen</span> | <span style="color: green">2016</span> | <span style="color: green">Mo Zhang</span> | <a href="https://www.youtube.com/watch?v=yrxgmVhAu8c">YouTube</a> |  |
+| <span style="color: green">Under the Sea</span> | <span style="color: green">2016</span> | <span style="color: green">Koh Eun-hye</span> | <a href="https://vimeo.com/216787893">YouTube</a> |  |
+| <span style="color: green">Girls on Top</span> | <span style="color: green">2017</span> | <span style="color: green">Koo Kyo-hwan, Yi Ok-seop</span> | <a href="https://www.youtube.com/watch?v=3sa_Ko9sHvg">YouTube</a> |  |
+| <span style="color: green">Bori</span> | <span style="color: green">2018</span> | <span style="color: green">Kim Jin-yu</span> | <a href="https://drive.google.com/file/d/1LximX9MI8a6rqJ9gFzhCzuGJovbrBQgg/view">Google Drive</a> |  |
+| <span style="color: green">The Story of Our Home</span> | <span style="color: green">2016</span> | <span style="color: green">Ri Yun Ho, Ha Yong Ki</span> | <a href="https://www.youtube.com/watch?v=ZQrIY7G5Bf8&t">YouTube</a> |  |
+| <span style="color: green">Summer Bus</span> | <span style="color: green">2017</span> | <span style="color: green">Cho Beom-sik, Ryu Jin-ah</span> | <a href="https://www.youtube.com/watch?v=-MliIE5PGrI">YouTube</a> |  |
+| <span style="color: green">Yuwol: The Boy Who Made The World Dance</span> | <span style="color: green">2018</span> | <span style="color: green">BEFF</span> | <a href="https://www.youtube.com/watch?v=zOXFqZ9rGUo">YouTube</a> |  |
+| <span style="color: green">Beats Per Mizu</span> | <span style="color: green">2019</span> | <span style="color: green">Miki Tomita</span> | <a href="https://www.youtube.com/watch?v=orBH3YCfZHk&t=144s">YouTube</a> |  |
+| <span style="color: green">Flying Colors</span> | <span style="color: green">2015</span> | <span style="color: green">Nobuhiro Doi</span> | <a href="https://www.youtube.com/watch?v=EsFoEGMtBTw">YouTube</a> |  |
+| <span style="color: green">The Mosquito on the Tenth Floor</span> | <span style="color: green">1983</span> | <span style="color: green">Yoichi Sai</span> | <a href="https://www.youtube.com/watch?v=47bK1xQkVIw">YouTube</a> |  |
+| <span style="color: green">Angel's Egg</span> | <span style="color: green">1985</span> | <span style="color: green">Mamoru Oshii</span> | <a href="https://www.youtube.com/watch?app=desktop&v=fIhKqaNp4Dc">YouTube</a> |  |
+| <span style="color: green">Dreams</span> | <span style="color: green">1990</span> | <span style="color: green">Akira Kurosawa</span> | <a href="https://www.youtube.com/watch?v=RcXk_PLrHp8">YouTube</a> |  |
+| <span style="color: green">Nosferatu</span> | <span style="color: green">1922</span> | <span style="color: green">F.W. Murnau</span> | <a href="https://www.youtube.com/watch?v=FC6jFoYm3xs">YouTube</a> |  |
+| <span style="color: green">The Drifiting Classroom</span> | <span style="color: green">1987</span> | <span style="color: green">Nobuhiko Ōbayashi</span> | <a href="https://www.youtube.com/watch?v=C_NfIL_JTJI">YouTube</a> |  |
+| <span style="color: green">The Working Class Goes to Heaven</span> | <span style="color: green">1971</span> | <span style="color: green">Elio Petri</span> | <a href="https://www.youtube.com/watch?v=fNcxxBjEOgw">YouTube</a> |  |
+| <span style="color: green">Man with a Movie Camera</span> | <span style="color: green">1929</span> | <span style="color: green">Dziga Vertov</span> | <a href="https://www.youtube.com/watch?v=cGYZ5847FiI">YouTube</a> |  |
+| <span style="color: green">Metropolis</span> | <span style="color: green">1927</span> | <span style="color: green">Fritz Lang</span> | <a href="https://www.youtube.com/watch?v=Vnp_TAb52AI&t=3s">YouTube</a> |  |
+| <span style="color: green">Nomad</span> | <span style="color: green">1982</span> | <span style="color: green">Patrick Tam, Terry Tong</span> | <a href="https://www.youtube.com/watch?v=W-2unuMLb3g">YouTube</a> |  |
+| <span style="color: green">When the Tenth Month Comes</span> | <span style="color: green">1984</span> | <span style="color: green">Dang Nhat Minh</span> | <a href="https://www.youtube.com/watch?v=FSJ7g2zGD0k">YouTube</a> |  |
+| <span style="color: green">Satantango</span> | <span style="color: green">1994</span> | <span style="color: green">Béla Tarr</span> | <a href="https://archive.org/details/satantangosub">Archive.org</a> |  |
+| <span style="color: green">The Witches’ Sabbath</span> | <span style="color: green">1988</span> | <span style="color: green">Marco Bellocchio</span> | <a href="https://www.youtube.com/watch?v=gvvKXLGzZbY">YouTube</a> |  |
+| <span style="color: green">Why Has Bodhi-Dharma Left for the East?</span> | <span style="color: green">1989</span> | <span style="color: green">Bae Yong-kyun</span> | <a href="https://www.youtube.com/watch?v=mvyqPHvhhwc">YouTube</a> |  |
+| <span style="color: green">Ugetsu</span> | <span style="color: green">1953</span> | <span style="color: green">Kenji Mizoguchi</span> | <a href="https://www.youtube.com/watch?v=gUbau96NdJk">YouTube</a> |  |
+| <span style="color: green">Grass Labyrinth</span> | <span style="color: green">1979</span> | <span style="color: green">Shūji Terayama</span> | <a href="https://www.youtube.com/watch?v=91VN172ejOE">YouTube</a> |  |
+| <span style="color: green">Charade</span> | <span style="color: green">1993</span> | <span style="color: green">Stanley Donen</span> | <a href="https://www.youtube.com/watch?v=-uc86VH8hdA">YouTube</a> |  |
+| <span style="color: green">Noisy Requiem</span> | <span style="color: green">1988</span> | <span style="color: green">Yoshihiko Matsui</span> | <a href="https://www.youtube.com/watch?v=DpmYt9NuyOM">YouTube</a> |  |
+| <span style="color: green">Lux Æterna</span> | <span style="color: green">2019</span> | <span style="color: green">Gaspar Noé</span> | <a href="https://drive.google.com/file/d/15OqvUfQvikF7wvQt78QHGm7AG1cNw8kT/view">Google Drive</a> |  |
+| <span style="color: green">Hair Love</span> | <span style="color: green">2019</span> | <span style="color: green">Bruce W. Smith, Matthew A. Cherry, Everett Downing Jr. </span> | <a href="https://www.youtube.com/watch?v=kNw8V_Fkw28">YouTube</a> |  |
+| <span style="color: green">Be With You</span> | <span style="color: green">2018</span> | <span style="color: green">Lee Jang-hoon</span> | <a href="https://www.youtube.com/watch?v=4LtS16PQ_v8">YouTube</a> |  |
+| <span style="color: green">Loyal Citizens of Pyongyang in Seoul</span> | <span style="color: green">2018</span> | <span style="color: green">David Yun</span> | <a href="https://www.youtube.com/watch?v=ktE_3PrJZO0">YouTube</a> |  |
+| <span style="color: green">And So We Put Goldfish in the Pool.</span> | <span style="color: green">2017</span> | <span style="color: green">Makoto Nagahisa</span> | <a href="https://www.youtube.com/watch?v=pn21p2z55so">YouTube</a> |  |
+| <span style="color: green">Onibaba</span> | <span style="color: green">1964</span> | <span style="color: green">Kaneto Shindō</span> | <a href="https://www.youtube.com/watch?v=fqkiC9EzKnE">YouTube</a> | <a href="https://www.youtube.com/watch?v=H91BxkBXttE">YouTube⁽ᵖᵗ⁻ᵇʳ ˢᵘᵇˢ⁾</a> <a href="https://www.youtube.com/watch?v=QPKnAt4IMXo">YouTube⁽ᵏʳ ˢᵘᵇˢ⁾</a> |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
@@ -134,20 +168,6 @@
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-
-
-
-
-
-
-
-
-
-
 
 
 
