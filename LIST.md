@@ -95,6 +95,30 @@
 | <span style="color: green">Shodo Girls: Blue Blue Sky</span> | <span style="color: green">2011</span> | <span style="color: green">Takafumi Ota</span> | <a href="https://www.youtube.com/watch?v=5GP7MwkKcF0">YouTube</a> |  |
 | <span style="color: green">A Bride for Rip Van Winkle</span> | <span style="color: green">2016</span> | <span style="color: green">Shunji Iwai</span> | <a href="https://www.youtube.com/watch?v=YyokiLIQ9Nw">YouTube</a> | <a href="https://www.youtube.com/watch?v=2U-PbXtNGjo">YouTube</a> |
 | <span style="color: green">Unforgettable</span> | <span style="color: green">2016</span> | <span style="color: green">Lee Eun-hee</span> | <a href="https://drive.google.com/file/d/1IRKM-gY-LOPgAPV79mjLrE5J6CnR0y6s/view">Google Drive</a> |  |
+| <span style="color: green">The East is Red</span> | <span style="color: green">1965</span> | <span style="color: green">Ping Wang</span> | <a href="https://archive.org/details/Night.Of.The.Living.Dead_1080p">Archive.org</a> |  |
+| <span style="color: green">The Little Girl of Hanoi</span> | <span style="color: green">1975</span> | <span style="color: green">Hải Ninh</span> | <a href="https://www.youtube.com/watch?v=XJjHHwkKgOo">YouTube</a> |  |
+| <span style="color: green">Yellow Earth</span> | <span style="color: green">1984</span> | <span style="color: green">Chen Kaige</span> | <a href="https://www.youtube.com/watch?v=sEqfyZGYVrM">YouTube</a> |  |
+| <span style="color: green">Serial Experiments Lain</span> | <span style="color: green">1998</span> | <span style="color: green"> Yuichi Tanaka, Masahiro Sekiguchi, Shigeru Ueda, Ryutaro Nakamura</span> | <a href="https://www.youtube.com/playlist?list=PLvDJyBgCi8B_8kSSFS0ZFj4yn5KqqpKtg">YouTube</a> |  |
+| <span style="color: green">Ritual</span> | <span style="color: green">2000</span> | <span style="color: green">Hideaki Anno</span> | <a href="https://drive.google.com/drive/u/0/folders/1VnCMTbuSmWJcs1-pccJrX5SsTPXbQrcF">Google Drive</a> |  |
+| <span style="color: green">In Shanghai</span> | <span style="color: green">2001</span> | <span style="color: green">Lou Ye</span> | <a href="https://www.youtube.com/watch?v=K8t1TlLVZrc">YouTube</a> | <a href="https://www.youtube.com/watch?v=7xgywPanjs4">YouTube</a> |
+| <span style="color: green">Taste of Cherry</span> | <span style="color: green">1997</span> | <span style="color: green">Abbas Kiarostami</span> | <a href="https://www.youtube.com/watch?v=yvSpZQIrMfM">YouTube</a> |  |
+| <span style="color: green">Lan yu</span> | <span style="color: green">2001</span> | <span style="color: green">Stanley Kwan</span> | <a href="https://www.youtube.com/watch?v=84oo1zeBU1M">YouTube</a> |  |
+| <span style="color: green">Pragma</span> | <span style="color: green">2015</span> | <span style="color: green">Park Ji-hyun</span> | <a href="https://www.youtube.com/watch?v=p4apGtSZFIQ">YouTube</a> |  |
+| <span style="color: green">Perfect Blue</span> | <span style="color: green">1997</span> | <span style="color: green">Satoshi Kon</span> | <a href="https://www.youtube.com/watch?v=d62GWtRIkJE">YouTube</a> |  |
+| <span style="color: green">After Life</span> | <span style="color: green">1998</span> | <span style="color: green">Hirokazu Kore-eda</span> | <a href="https://www.youtube.com/watch?v=7rk1HFC60e0">YouTube</a> |  |
+| <span style="color: green">Zapatista</span> | <span style="color: green">1999</span> | <span style="color: green">Rick Rowley, Benjamin Eichert, Ståle Sandberg</span> | <a href="https://www.youtube.com/watch?v=vBqIowBEL60">YouTube</a> |  |
+| <span style="color: green">Sleeping Bride</span> | <span style="color: green">2000</span> | <span style="color: green">Hideo Nakata</span> | <a href="https://www.youtube.com/watch?v=ZoAwZi4M2_U">YouTube</a> |  |
+| <span style="color: green">October (Ten Days that Shook the World)</span> | <span style="color: green">1927</span> | <span style="color: green">Sergei Eisenstein, Grigori Aleksandrov</span> | <a href="https://archive.org/details/Eisenstein-October">Archive.org</a> | <a href="https://www.youtube.com/watch?v=UYp5fAuaky0">YouTube</a> |
+| <span style="color: green">Kisapmata</span> | <span style="color: green">1981</span> | <span style="color: green">Mike de Leon</span> | <a href="https://ok.ru/video/2571528702630">OK.ru</a> |  |
+| <span style="color: green">A Girl, She Is 100%</span> | <span style="color: green">1983</span> | <span style="color: green">Naoto Yamakawa</span> | <a href="https://www.youtube.com/watch?v=UqcW8V2z44c">YouTube</a> |  |
+| <span style="color: green">Interstella 5555: The 5tory of the 5ecret 5tar 5ystem</span> | <span style="color: green">2003</span> | <span style="color: green">Kazuhisa Takenouchi, Daisuke Nishio, Bernard Deyriès, Hirotoshi Rissen</span> | <a href="https://www.youtube.com/watch?app=desktop&v=3Qxe-QOp_-s">YouTube</a> |  |
+| <span style="color: green">Dancer in The Dark</span> | <span style="color: green">2000</span> | <span style="color: green">Lars von Trier</span> | <a href="https://www.youtube.com/watch?v=kgZMr6sQ2Dw">YouTube</a> |  |
+| <span style="color: green">Windstruck</span> | <span style="color: green">2004</span> | <span style="color: green">Kwak Jae-yong</span> | <a href="https://www.youtube.com/watch?v=y1uxIBfRmuo">YouTube</a> |  |
+| <span style="color: green">The Baader Meinhof Complex</span> | <span style="color: green">2008</span> | <span style="color: green">Uli Edel</span> | <a href="https://www.youtube.com/watch?v=gNC6bah4Dkk">YouTube</a> |  |
+| <span style="color: green">Strawberry Fields</span> | <span style="color: green">2006</span> | <span style="color: green">Takafumi Ota</span> | <a href="https://www.youtube.com/watch?v=5ZNkCqd3tJA">YouTube</a> |  |
+| <span style="color: green">Bunny Drop</span> | <span style="color: green">2011</span> | <span style="color: green">SABU</span> | <a href="https://www.youtube.com/watch?v=0TD4Pa_u3ZY">YouTube</a> |  |
+| <span style="color: green">Beginning of The Great Revival</span> | <span style="color: green">2011</span> | <span style="color: green">Han Sanping, Lu Chuan, Li Shaohong, Huang Jianxin</span> | <a href="https://www.youtube.com/watch?v=x8-GUzTUL2M">YouTube</a> | <a href="https://www.youtube.com/watch?v=YFcbFwiORF8">YouTube</a> <a href="https://www.youtube.com/watch?v=KEDv6MaYTkY">YouTube</a> |
+| <span style="color: green">Time Traveller: The Girl Who Leapt Through Time</span> | <span style="color: green">2010</span> | <span style="color: green">Masaaki Taniguchi</span> | <a href="https://www.youtube.com/watch?v=5z_znVyOuto">YouTube</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
@@ -114,18 +138,6 @@
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
 | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-| <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <span style="color: green">xxx</span> | <a href="xxx">xxx</a> |  |
-
-
-
-
-
-
-
-
 
 
 
