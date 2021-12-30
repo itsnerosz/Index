@@ -1,13 +1,13 @@
-# <center><span style="color: Black">Welcome to Nero's Archive!</span></center>
+# <center><span style="color: Black">Welcome to Nero's Index !
 <center>A.K.A "Fantastic Films and Where to Find Them (For FREE)".</center>
 
 ---
 
 ### <span style="color: Black">About</span>
 
-Nero's Archive is a list that compiles links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
+Nero's Index is a list that compiles links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
-You can use the <a href="https://github.com/itsnerosz/nerosz_archive/edit/main/README.md">list on Letterboxd</a> to preview its titles.
+You can use the <a href="https://github.com/itsnerosz/nerosz_index/edit/main/README.md">list on Letterboxd</a> to preview its titles.
 
 The list is updated weekly.
 
@@ -23,7 +23,7 @@ Type the word or phrase that you want to find in the search box. The "Find" sear
 
 ---
 
-# <center><span style="color: Black">Nero's Archive</span><center>
+# <center><span style="color: Black">Nero's Index</span><center>
 <center>broken liks are listend in <span style="color: red">red</span></center>
 <center>online liks are listend in <span style="color: green">green</span></center> 
 ---
@@ -38,7 +38,7 @@ If you want to report a broken link or share a link so I can add to the list, yo
  
 ### <span style="color: red">Disclaimer</span>
 
-Nero's Archive does not host any content, it just links to or embedds content that was uploaded to popular online video hosting sites like dailymotion.com, Youtube.com, Google Drive, ZShare.net, cloudy, netu.tv and such sites.
+Nero's Index does not host any content, it just links to or embedds content that was uploaded to popular online video hosting sites like dailymotion.com, Youtube.com, Google Drive, ZShare.net, cloudy, netu.tv and such sites.
 
 We are not responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site are located somewhere else on the web or video embedded are from other various site like included above. If you have any legal issues please contact appropriate media file owners / hosters.
  
