@@ -16,7 +16,7 @@
 
 Nero's Index is a list that compiles links to films that are available for free on Youtube, Vimeo and others video sharing platforms.
 
-You can use the <a href="https://github.com/itsnerosz/nerosz_index/edit/main/README.md">list on Letterboxd</a> to preview its titles.
+You can use the <a href="https://boxd.it/cXhCo">list on Letterboxd</a> to preview its titles.
 
 The list is updated weekly.
 
