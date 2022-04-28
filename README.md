@@ -1,6 +1,15 @@
 # <center><span style="color: Black">Welcome to Nero's Index !
 <center>A.K.A "Fantastic Films and Where to Find Them (For FREE)".</center>
 
+<a href="https://twitter.com/itsnerosz?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @itsnerosz</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+ 
+
+
+
+
+
+ 
 ---
 
 ### <span style="color: Black">About</span>
