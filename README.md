@@ -19,7 +19,7 @@ I recommend you to use the "Find" tool in your web browser to easily navigate th
 
 Press Ctrl+F on Windows or ⌘ Command+F on Mac. This will open the "Find" search box in virtually any browser. Alternatively, you can click the icon with three dots or three lines in the upper-right corner to open the menu. Then click the "Find" option. It will either say Find, Find on this page or something similar.
 
-Type the word or phrase that you want to find in the search box. The "Find" search box appears either at the top of the page or the bottom of the page depending on which web browser you are using. Your browser will find matches as you type and highlight them in the text
+Type the word or phrase that you want to find in the search box (ex. titles, director). The "Find" search box appears either at the top of the page or the bottom of the page depending on which web browser you are using. Your browser will find matches as you type and highlight them in the text
 
 ---
 
