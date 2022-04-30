@@ -203,6 +203,12 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Without Memory</span> | <span style="color: green">1996</span> | <span style="color: green">Hirokazu Kore-eda</span> | <a href="https://youtu.be/F3VnZ4IV7Y4">YouTube</a> |  |
 | <span style="color: green">Transferring</span> | <span style="color: green">2012</span> | <span style="color: green">Jun’ichi Kanai</span> | <a href="https://www.youtube.com/watch?v=UPP018kEk58">YouTube</a> |  |
 | <span style="color: green">Go</span> | <span style="color: green">2001</span> | <span style="color: green">Isao Yukisada</span> | <a href="https://youtu.be/kEYqUndHcvA">YouTube⁽ᵖᵃʳᵗ ¹⁾</a> | <a href="https://youtu.be/DatIuup__fU">YouTube⁽ᵖᵃʳᵗ ²⁾</a> |
+| <span style="color: green">Linda Linda Linda</span> | <span style="color: green">2005</span> | <span style="color: green">Nobuhiro Yamashita</span> | <a href="https://youtu.be/e2pxojT24ac">YouTube</a> |  |
+| <span style="color: green">Theatre: A Love Story</span> | <span style="color: green">2020</span> | <span style="color: green">Isao Yukisada</span> | <a href="https://youtu.be/ivXM3rQyb70">YouTube</a> |  |
+| <span style="color: green">Spring, Summer, Fall, Winter...and Spring</span> | <span style="color: green">2003</span> | <span style="color: green">Kim Ki-duk</span> | <a href="https://youtu.be/iBptr1OWYZI">YouTube</a> | <a href="https://youtu.be/1RbRWEdouzk">YouTube</a> |
+| <span style="color: green">Night of the Living Dead</span> | <span style="color: green">1968</span> | <span style="color: green">George A. Romero</span> | <a href="https://archive.org/details/Night.Of.The.Living.Dead_1080p">Archive.org</a> | <a href="https://youtu.be/H91BxkBXttE">YouTube</a> |
+| <span style="color: green">Oasis</span> | <span style="color: green">2002</span> | <span style="color: green">Lee Chang-dong</span> | <a href="https://youtu.be/Dc6hmd_SDiQ">YouTube</a> |  |
+| <span style="color: green">Last Retro Journey</span> | <span style="color: green">x2021</span> | <span style="color: green">Nor Elfiezah Bte Tarmonoh</span> | <a href="https://youtu.be/QX036NQqNok">YouTube</a> |  |
 
 ### <span style="color: Black">Contact</span>
  
