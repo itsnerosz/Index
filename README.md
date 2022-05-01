@@ -209,6 +209,12 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Night of the Living Dead</span> | <span style="color: green">1968</span> | <span style="color: green">George A. Romero</span> | <a href="https://archive.org/details/Night.Of.The.Living.Dead_1080p">Archive.org</a> | <a href="https://youtu.be/H91BxkBXttE">YouTube</a> |
 | <span style="color: green">Oasis</span> | <span style="color: green">2002</span> | <span style="color: green">Lee Chang-dong</span> | <a href="https://youtu.be/Dc6hmd_SDiQ">YouTube</a> |  |
 | <span style="color: green">Last Retro Journey</span> | <span style="color: green">x2021</span> | <span style="color: green">Nor Elfiezah Bte Tarmonoh</span> | <a href="https://youtu.be/QX036NQqNok">YouTube</a> |  |
+| <span style="color: green">Cure</span> | <span style="color: green">1997</span> | <span style="color: green">Kiyoshi Kurosawa</span> | <a href="https://youtu.be/U6VE4g3fpT0">YouTube</a> |  |
+| <span style="color: green">Jim Carrey: Unnatural Act</span> | <span style="color: green">1991</span> | <span style="color: green">Michael French</span> | <a href="https://youtu.be/wbpciGnQnOA">YouTube</a> |  |
+| <span style="color: green">Mahjong</span> | <span style="color: green">1996</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/gXmf-BOuhWQ">YouTube</a> |  |
+| <span style="color: green">A Brighter Summer Day</span> | <span style="color: green">1991</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/0kMR6hlAvlk">YouTube</a> |  |
+| <span style="color: green">To Shoot an Elephant</span> | <span style="color: green">2009</span> | <span style="color: green">Alberto Arce, Mohammad Rujailah</span> | <a href="https://youtu.be/ncHlQCqhmus">YouTube</a> |  |
+| <span style="color: green">The Society of the Spectacle/La Société du Spectacle</span> | <span style="color: green"1973></span> | <span style="color: green">Guy Debord</span> | <a href="https://youtu.be/IaHMgToJIjA">YouTube</a> |  |
 
 ### <span style="color: Black">Contact</span>
  
