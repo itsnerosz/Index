@@ -18,7 +18,7 @@ Nero's Index is a list that compiles links to films that are available for free 
 
 You can use the <a href="https://boxd.it/cXhCo">list on Letterboxd</a> to preview its titles.
 
-The list is updated weekly.
+The list is updated monthly.
 
 ---
 
@@ -214,7 +214,11 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Mahjong</span> | <span style="color: green">1996</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/gXmf-BOuhWQ">YouTube</a> |  |
 | <span style="color: green">A Brighter Summer Day</span> | <span style="color: green">1991</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/0kMR6hlAvlk">YouTube</a> |  |
 | <span style="color: green">To Shoot an Elephant</span> | <span style="color: green">2009</span> | <span style="color: green">Alberto Arce, Mohammad Rujailah</span> | <a href="https://youtu.be/ncHlQCqhmus">YouTube</a> |  |
-| <span style="color: green">The Society of the Spectacle/La Société du Spectacle</span> | <span style="color: green"1973></span> | <span style="color: green">Guy Debord</span> | <a href="https://youtu.be/IaHMgToJIjA">YouTube</a> |  |
+| <span style="color: green">The Society of the Spectacle/La Société du Spectacle</span> | <span style="color: green">1973</span> | <span style="color: green">Guy Debord</span> | <a href="https://youtu.be/IaHMgToJIjA">YouTube</a> |  |
+| <span style="color: green">Charisma</span> | <span style="color: green">1999</span> | <span style="color: green">Kiyoshi Kurosawa</span> | <a href="https://youtu.be/TPPkFcagk0A">YouTube</a> |  |
+| <span style="color: green">Our Body</span> | <span style="color: green">2018</span> | <span style="color: green">Han Ka-ram</span> | <a href="https://drive.google.com/file/d/1EAQ0tnp9twA5VA3vnpH113V_GcS79TST/view">Google Drive</a> |  |
+| <span style="color: green">Please Don't Save Me</span> | <span style="color: green">2020</span> | <span style="color: green">Jung Yeon-kyung</span> | <a href="https://drive.google.com/file/d/1HtFTRv0xNQvLVdOhNzM9qlAM0X6tnYqZ/view">Google Drive</a> |  |
+| <span style="color: green">Second Life</span> | <span style="color: green">2018</span> | <span style="color: green">Park Young-ju</span> | <a href="https://drive.google.com/file/d/1JtQLC84bk0deAvS_bunqkcSWzVYWL15M/view">Google Drive</a> |  |
 
 ### <span style="color: Black">Contact</span>
  
