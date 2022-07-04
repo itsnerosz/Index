@@ -224,6 +224,9 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Threads - Our Tapestry of Love</span> | <span style="color: green">2020</span> | <span style="color: green">Takahisa Zexe</span> | <a href="https://archive.org/details/tapestry-2020-1080-p-amzn-web-dl-ddp-5.1-h.-264-nsbc-1">Archive.org</a> | <a href="https://www.bilibili.tv/en/video/2002053094">Bilibili</a> |
 | <span style="color: green">Four Roads</span> | <span style="color: green">2021</span> | <span style="color: green">Alice Rohrwacher</span> | <a href="https://archive.org/details/four-roads">Archive.org</a> |  |
 | <span style="color: green">Youth</span> | <span style="color: green">2017</span> | <span style="color: green">Feng Xiaogang</span> | <a href="https://youtu.be/zI8O8CBDiw0">YouTube</a> |  |
+| <span style="color: green">Raise The Red Lantern</span> | <span style="color: green">1991</span> | <span style="color: green">Zhang Yimou</span> | <a href="https://youtu.be/BMwHE8Po-oc">YouTube</a> |  |
+| <span style="color: green">Lost and Found</span> | <span style="color: green">1996</span> | <span style="color: green">Lee Chi-ngai</span> | <a href="https://youtu.be/FUeQih625hM">YouTube</a> |  |
+
 
 ### <span style="color: Black">Contact</span>
  
