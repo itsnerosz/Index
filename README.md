@@ -209,7 +209,7 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Night of the Living Dead</span> | <span style="color: green">1968</span> | <span style="color: green">George A. Romero</span> | <a href="https://archive.org/details/Night.Of.The.Living.Dead_1080p">Archive.org</a> | <a href="https://youtu.be/H91BxkBXttE">YouTube</a> |
 | <span style="color: green">Oasis</span> | <span style="color: green">2002</span> | <span style="color: green">Lee Chang-dong</span> | <a href="https://youtu.be/Dc6hmd_SDiQ">YouTube</a> |  |
 | <span style="color: green">Last Retro Journey</span> | <span style="color: green">x2021</span> | <span style="color: green">Nor Elfiezah Bte Tarmonoh</span> | <a href="https://youtu.be/QX036NQqNok">YouTube</a> |  |
-| <span style="color: green">Cure</span> | <span style="color: green">1997</span> | <span style="color: green">Kiyoshi Kurosawa</span> | <a href="https://youtu.be/U6VE4g3fpT0">YouTube</a> |  |
+| <span style="color: green">Cure</span> | <span style="color: green">1997</span> | <span style="color: green">Kiyoshi Kurosawa</span> | <a href="https://youtu.be/C2NXevohqDk">YouTube</a> |  |
 | <span style="color: green">Jim Carrey: Unnatural Act</span> | <span style="color: green">1991</span> | <span style="color: green">Michael French</span> | <a href="https://youtu.be/wbpciGnQnOA">YouTube</a> |  |
 | <span style="color: green">Mahjong</span> | <span style="color: green">1996</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/gXmf-BOuhWQ">YouTube</a> |  |
 | <span style="color: green">A Brighter Summer Day</span> | <span style="color: green">1991</span> | <span style="color: green">Edward Yang</span> | <a href="https://youtu.be/0kMR6hlAvlk">YouTube</a> |  |
@@ -219,6 +219,11 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">Our Body</span> | <span style="color: green">2018</span> | <span style="color: green">Han Ka-ram</span> | <a href="https://drive.google.com/file/d/1EAQ0tnp9twA5VA3vnpH113V_GcS79TST/view">Google Drive</a> |  |
 | <span style="color: green">Please Don't Save Me</span> | <span style="color: green">2020</span> | <span style="color: green">Jung Yeon-kyung</span> | <a href="https://drive.google.com/file/d/1HtFTRv0xNQvLVdOhNzM9qlAM0X6tnYqZ/view">Google Drive</a> |  |
 | <span style="color: green">Second Life</span> | <span style="color: green">2018</span> | <span style="color: green">Park Young-ju</span> | <a href="https://drive.google.com/file/d/1JtQLC84bk0deAvS_bunqkcSWzVYWL15M/view">Google Drive</a> |  |
+| <span style="color: green">Comrades, Almost a Love Story</span> | <span style="color: green">1996</span> | <span style="color: green">Peter Chan</span> | <a href="https://archive.org/details/comrades.-almost.-a.-love.-story.-1996.1080p.-blu-ray.x-264.-aac-5.1-yts.-mx">Archive.org</a> |  |
+| <span style="color: green">Farewell My Concubine</span> | <span style="color: green">1993</span> | <span style="color: green">Kaige Chen</span> | <a href="https://archive.org/details/farewell.-my.-concubine.-1993.1080p.-blu-ray.x-264-meli-te">Archive.org</a> |  |
+| <span style="color: green">Threads - Our Tapestry of Love</span> | <span style="color: green">2020</span> | <span style="color: green">Takahisa Zexe</span> | <a href="https://archive.org/details/tapestry-2020-1080-p-amzn-web-dl-ddp-5.1-h.-264-nsbc-1">Archive.org</a> | <a href="https://www.bilibili.tv/en/video/2002053094">Bilibili</a> |
+| <span style="color: green">Four Roads</span> | <span style="color: green">2021</span> | <span style="color: green">Alice Rohrwacher</span> | <a href="https://archive.org/details/four-roads">Archive.org</a> |  |
+| <span style="color: green">Youth</span> | <span style="color: green">2017</span> | <span style="color: green">Feng Xiaogang</span> | <a href="https://youtu.be/zI8O8CBDiw0">YouTube</a> |  |
 
 ### <span style="color: Black">Contact</span>
  
