@@ -5,7 +5,7 @@
 
  
 
-
+   
 
 
 
@@ -88,7 +88,7 @@ The “Find” search box appears either at the top of the page or the bottom of
 | <span style="color: green">The Battle of Algiers</span> | <span style="color: green">1966</span> | <span style="color: green">Gillo Pontecorvo</span> | <a href="https://www.youtube.com/watch?v=uHWZkiBuKGY">YouTube</a> | <a href="https://www.youtube.com/watch?v=HpCVtgr8DW8">YouTube</a> |
 | <span style="color: green">Solaris</span> | <span style="color: green">1972</span> | <span style="color: green">Andrei Tarkovsky</span> | <a href="https://www.youtube.com/watch?v=6-4KydP92ss&t=5s">YouTube⁽ᴾᴬᴿᵀ ¹⁾</a> | <a href="https://www.youtube.com/watch?v=xXa6XpaxBS0">YouTube⁽ᴾᴬᴿᵀ ²⁾</a> |
 | <span style="color: green">Dona Flor e Seus Dois Maridos / Dona Flor and Her Two Husbands</span> | <span style="color: green">1976</span> | <span style="color: green">Bruno Barreto</span> | <a href="https://www.youtube.com/watch?v=SWmQamTTfB4">YouTube</a> |  |
-| <span style="color: green">Girls of Cinema</span> | <span style="color: green">2017</span> | <span style="color: green">Yuki Yamato</span> | <a href="https://vimeo.com/248983172">Vimeo</a> |  |
+| <span style="color: green">Girls of Cinema</span> | <span style="color: green">2017</span> | <span style="color: green">Yuki Yamato</span> | <a href="https://vk.com/video653173939_456240410">VK</a> |  |
 | <span style="color: green">A Boy and Sungreen</span> | <span style="color: green">2018</span> | <span style="color: green">Ahn Ju-young</span> | <a href="https://drive.google.com/file/d/1PYOddicf7YPvR-AgwqhJQHgPsUx7PmS6/view?usp=drivesdk">Google Drive</a> |  |
 | <span style="color: green">Maggie</span> | <span style="color: green">2018</span> | <span style="color: green">Yi Ok-seop</span> | <a href="https://drive.google.com/file/d/1s5u9nDQudXNTvLhcz78pak1LSUo9MT0G/view">Google Drive</a> |  |
 | <span style="color: green">Little Forest</span> | <span style="color: green">2018</span> | <span style="color: green">Yim Soon-rye</span> | <a href="https://drive.google.com/file/d/1Uuv1lUFWhXXKQ0_BvXhlibdSJ1sMTyRC/view">Google Drive</a> |  |
